@@ -24,7 +24,7 @@ I approach each testing challenge with enthusiasm and a thirst for knowledge, em
 
 
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/11FJNgtF8fAgEQIFJ0aA9S9O8_6_7Jgp-/view?usp=sharing).
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1meQzlV95KUp2iqztu6kvPnWAc1Zray96/view?usp=sharing).
 
 ## Skills
 
