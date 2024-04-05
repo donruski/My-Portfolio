@@ -5,7 +5,7 @@
 - [Tools](#tools)
 - [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
-  * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
+  * [Test cases](#test-cases)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
   * [Mindmaps and diagrams](#mindmaps-and-diagrams)
   * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
@@ -34,20 +34,17 @@ __Manual testing__
   * can perform manual functional and usability testing of web applications
   * gained hands-on experience by testing applications created for educational purposes
 
-__Test analysis & design__
-  * familiar with functional decomposition of products, creating state transition diagrams, writing use cases
-  * can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
+ __Automation testing__
+  * can perform Web Automation testing using Selenium to ensure the functionality and reliability of web Application
+  * Can perform Regression testing by re-executing previous test cases by web automation 
 
-__API testing__
-  * know the difference between SOAP and REST APIs
-  * gained experience through manual testing of APIs created for educational purposes
-  * know how to manipulate requests and create test cases using the SoapUI tool
 
 __Exploratory testing__
   * capable of using Whittaker’s test tours and creating cheat-lists for testing web applications
 
 __Test documentation__
   * can create test cases and checklists and know how and in which situations to use them effectively
+  * can create test plan 
   * able to prepare comprehensive bug reports and provide detailed session reports
 
 __SQL databases__
@@ -60,29 +57,35 @@ __Python fundamentals__
   * know when to use for and while
   * able to comprehend easy codes
 
+__Html and Css__
+  * Understanding of HTML structure including elements like <html>, <head>, <title>, <body>, etc.
+  * Knowledge of HTML tags such as headings , paragraphs , lists , links, 
+    images <img>, forms  etc.
+  * Understanding of CSS syntax and how CSS rules are structured with selectors, properties, and values.
+    
+
 ## Tools
 
-__TestRail__
-  * know how to create test cases and test suits
-  * able to run created test cases
-  * know how to use dashboards and statistics
+__Selenium__
+  * Created automated test scripts using Selenium WebDriver API in Python programming language
+  *  Design test cases for web application functionalities and implement them as automated scripts using Selenium.
+  * Execute automated test scripts using Selenium WebDriver against different browsers e.g., Chrome, Firefox, Safari
+  * Integrate Selenium with unittest automation framework
+  * Identify various locators using web elenent supported by Selenium and interact with it using Python script
+  * Implemented the Page Object Model design pattern to maintain a structured and maintainable test automation framework.
+    
 
 __Jira__
   * know how to create bug reports
   * able to create projects and track their progress
 
-__SoapUI__
+__Trello__
+  * Create Trello cards for individual test cases or test scenarios.
+  * Create Trello cards for tracking defects or issues identified during testing.
+  * Used Trello cards or checklists to track the execution of individual test cases.
+  * Collaborate with other team members
+    
 
-__Browser developer tools__
-
-__VirtualBox__
-  * able to set up and operate virtual machines
-
-__Trello and Notion__
-  * know how to use Kanban boards and track project progress
-
-__Mind maps & diagrams__
-  * know how to design beautifully simple mind maps
 
 ## Courses
 
@@ -105,7 +108,7 @@ An intensive introductory course (20 h) to software testing. Quality Lab is one 
 
 ## Examples of my work
 
-### Test cases and work in TestRail
+### Test cases
 
 - [The training webshop](http://automationpractice.com/) was used to create demo test cases
   * Test case for checking the checkout process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing)
