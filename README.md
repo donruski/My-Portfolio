@@ -110,9 +110,8 @@ An intensive introductory course (20 h) to software testing. Quality Lab is one 
 
 ### Test cases
 
-- [The training webshop](http://automationpractice.com/) was used to create demo test cases
-  * Test case for checking the checkout process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing)
-  * Test case for checking the addition of items to the cart (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1PTc-aPCKWBm4B3aaTPsvJ5wgW0P-KkpvaclZAbQzTZY/edit#gid=0)
+- [The training webshop](http://workplacewomen.org/) was used to create demo test cases
+  * Test cases for the Homepage of Workplacewomen. Check [the Google Sheets document here]([https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1nluen-LwtPGsi8px2cdWTXmnQFeoVtux/edit?usp=sharing&ouid=107348736949540309501&rtpof=true&sd=true))
 
 - [The training webpage Enotes](https://enotes.pointschool.ruin) was used for working with TestRail.
   * Test case (in Russian) for authorisation. Check [the screenshot from TestRail here](https://drive.google.com/file/d/1X9q5h3NKLI7NZpoU-gaHwSrYq_KQtDsl/view?usp=sharing).
