@@ -110,7 +110,7 @@ An intensive introductory course (20 h) to software testing. Quality Lab is one 
 
 ### Test cases
 
-- [The training webshop](http://workplacewomen.org/) was used to create demo test cases
+- [Qorkplacewomen](http://workplacewomen.org/) was used to create test cases
   * Test cases for the Homepage of Workplacewomen. Check [the Google Sheets document here]([https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1nluen-LwtPGsi8px2cdWTXmnQFeoVtux/edit?usp=sharing&ouid=107348736949540309501&rtpof=true&sd=true))
 
 - [The training webpage Enotes](https://enotes.pointschool.ruin) was used for working with TestRail.
