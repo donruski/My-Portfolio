@@ -110,15 +110,12 @@ An intensive introductory course (20 h) to software testing. Quality Lab is one 
 
 ### Test cases
 
-- [Qorkplacewomen](http://workplacewomen.org/) was used to create test cases
-  * Test cases for the Homepage of Workplacewomen. Check [the Google Sheets document here]([https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1nluen-LwtPGsi8px2cdWTXmnQFeoVtux/edit?usp=sharing&ouid=107348736949540309501&rtpof=true&sd=true))
+- [Workplacewomen](http://workplacewomen.org/) was used to create test cases
+  * Test cases for the Homepage of Workplacewomen. Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1nluen-LwtPGsi8px2cdWTXmnQFeoVtux/edit?usp=sharing&ouid=107348736949540309501&rtpof=true&sd=true)
 
-- [The training webpage Enotes](https://enotes.pointschool.ruin) was used for working with TestRail.
-  * Test case (in Russian) for authorisation. Check [the screenshot from TestRail here](https://drive.google.com/file/d/1X9q5h3NKLI7NZpoU-gaHwSrYq_KQtDsl/view?usp=sharing).
-  * Test case (in Russian) for adding an item to the cart. See [the screenshot from TestRail here](https://drive.google.com/file/d/1L74DBG62BRnl45WuVYsuR3RoYU4KZHrI/view?usp=sharing).
-  * Test suits and a test run for the cart. See [the screenshots from TestRail here](https://drive.google.com/file/d/1imQyEHdDE9FCWtnnPZurh0J9QMTWrS3l/view?usp=sharing).
-
-
+- [LIRS Staging environment](https://stagng.eadytax.io/admin/login/) was used to create test cases.
+  * Test case for Create new tax id. Check [The documentl here](https://docs.google.com/spreadsheets/d/1ot_tOvt3QC5zzByaAWKPxKRRFT_CLzKR/edit?usp=sharing&ouid=107348736949540309501&rtpof=true&sd=true).
+  
 ### Bug reports and work in Jira
 
 - Several bugs found on [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru) and reported:
