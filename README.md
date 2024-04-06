@@ -107,6 +107,13 @@ An intensive introductory course (20 h) to software testing. Quality Lab is one 
 
 
 ## Examples of my work
+### Test Plan
+
+- [LIRS Demo Test Plan](https://drive.google.com/file/d/1ZPVXTk57MSTO7QQYT6lhr6WyiGRTYraQ/view?usp=sharing)
+ 
+- [FIRS Demo Test](https://drive.google.com/file/d/1GN0--vHGrSix6_dwQrrjaqw5c_AoHvsO/view?usp=sharing)
+
+
 
 ### Test cases
 
@@ -114,7 +121,11 @@ An intensive introductory course (20 h) to software testing. Quality Lab is one 
   * Test cases for the Homepage of Workplacewomen. Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1nluen-LwtPGsi8px2cdWTXmnQFeoVtux/edit?usp=sharing&ouid=107348736949540309501&rtpof=true&sd=true)
 
 - [LIRS Staging environment](https://stagng.eadytax.io/admin/login/) was used to create test cases.
-  * Test case for Create new tax id. Check [The documentl here](https://docs.google.com/spreadsheets/d/1ot_tOvt3QC5zzByaAWKPxKRRFT_CLzKR/edit?usp=sharing&ouid=107348736949540309501&rtpof=true&sd=true).
+  * Test case for Create new tax id. Check [The documentl here]().
+ 
+- [FIRS Staging environment](http://firs.easytax.io/) was used to create test cases.
+  * Test case for Homepage. Check [The documentl here](https://docs.google.com/spreadsheets/d/1dM6hSqJssInroXDdDOtd_VHZymbcAqlz/edit?usp=sharing&ouid=107348736949540309501&rtpof=true&sd=true).
+
   
 ### Bug reports and work in Jira
 
