@@ -98,7 +98,7 @@ An intensive course in manual and automation testing.
 __Selenium Webdriver:Selenium Automation Testing with Python__  
 *online course by Phil Ebiner,Dmitry Shyshkin,Video school*  
 A comprehensive course in Selenium Web Automation Testing,Pytest Framework and Page Object Model.   
-[Link to the certificate](https://www.udemy.com/certificate/UC-92b91d1b-8d14-4a91-870a-0ec79198c661/)
+[Link to the certificate](https://www.udemy.com/certificate/UC-844493f0-903f-40d7-9b78-6e178dd601be/)
 
 
 ## Examples of my work
