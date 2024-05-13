@@ -89,17 +89,16 @@ __Trello__
 
 ## Courses
 
-__Practical Manual Testing | Bug Reporting and Task Management with JIRA | Database Testing | Selenium with Python
-__  
+__Practical Manual Testing | Bug Reporting and Task Management with JIRA | Database Testing | Selenium with Python__  
 *online courses by Testing world infotech,Testingworld Udemy*  
 An intensive course in manual and automation testing.  
-[Link to the certificate of the Level 1](https://www.udemy.com/certificate/UC-92b91d1b-8d14-4a91-870a-0ec79198c661/)  
+[Link to the certificate ](https://www.udemy.com/certificate/UC-92b91d1b-8d14-4a91-870a-0ec79198c661/)  
 *completed*
 
 __Selenium Webdriver:Selenium Automation Testing with Python__  
 *online course by Phil Ebiner,Dmitry Shyshkin,Video school*  
 A comprehensive course in Selenium Web Automation Testing,Pytest Framework and Page Object Model.   
-[Link to the certificate](https://www.udemy.com/certificate/UC-92b91d1b-8d14-4a91-870a-0ec79198c661/)
+[Link to the certificate](://https://www.udemy.com/certificate/UC-92b91d1b-8d14-4a91-870a-0ec79198c661/)
 
 
 ## Examples of my work
