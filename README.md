@@ -86,6 +86,10 @@ __Trello__
 
 
 ## Courses
+__Software Testing__
+*By Efezino  
+an intensive course in manual Testing 
+completed course 2023
 
 __Practical Manual Testing | Bug Reporting and Task Management with JIRA | Database Testing | Selenium with Python__  
 *online courses by Testing world infotech,Testingworld Udemy*  
