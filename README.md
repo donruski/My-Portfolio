@@ -121,10 +121,3 @@ A comprehensive course covering Selenium web automation testing, Pytest framewor
 - [Workplacewomen](http://workplacewomen.org/) was used to create test cases
   * Test cases for the Homepage of Workplacewomen. Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1nluen-LwtPGsi8px2cdWTXmnQFeoVtux/edit?usp=sharing&ouid=107348736949540309501&rtpof=true&sd=true)
 
-- [LIRS Staging environment](https://stagng.eadytax.io/admin/login/) was used to create test cases.
-  * Test case for Create new tax id. Check [The documentl here]().
- 
-- [FIRS Staging environment](http://firs.easytax.io/) was used to create test cases.
-  * Test case for Homepage. Check [The documentl here](https://docs.google.com/spreadsheets/d/1dM6hSqJssInroXDdDOtd_VHZymbcAqlz/edit?usp=sharing&ouid=107348736949540309501&rtpof=true&sd=true).
-
-  
