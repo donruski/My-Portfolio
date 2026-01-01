@@ -121,3 +121,14 @@ A comprehensive course covering Selenium web automation testing, Pytest framewor
 - [Workplacewomen](http://workplacewomen.org/) was used to create test cases
   * Test cases for the Homepage of Workplacewomen. Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1nluen-LwtPGsi8px2cdWTXmnQFeoVtux/edit?usp=sharing&ouid=107348736949540309501&rtpof=true&sd=true)
 
+### Test Automation
+
+Below are examples of my test automation work, showcasing my experience with Selenium and Playwright for validating web application functionality and reliability.
+
+**Login Test Automation (Selenium + Python)**  
+This project demonstrates automated testing of a login feature using Selenium WebDriver with Python. It covers form validation, positive and negative login scenarios, and reliable interaction with web elements to ensure consistent application behavior.  
+🔗 https://github.com/donruski/Test-Login/tree/master/Test
+
+**End-to-End Web Automation (Playwright + JavaScript)**  
+This project showcases modern end-to-end web automation using Playwright with JavaScript. It focuses on fast, reliable test execution, cross-browser testing, and maintainable test structure for validating user flows in web applications.  
+🔗 https://github.com/donruski/Playwright
