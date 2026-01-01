@@ -12,17 +12,15 @@
 
 ## About Me
 
-Hello! I'm Jamogha Orugba Lucky, a former physics teacher and computer science instructor who has transitioned into the world of software quality assurance testing. My journey from education to software testing reflects my passion for lifelong learning and my commitment to mastering new challenges.
+Hello! I'm Jamogha Orugba Lucky, a results-driven Software Quality Assurance Engineer with over three years of hands-on experience testing web and mobile applications across different industries. I specialize in both manual and automated testing, with a strong focus on delivering reliable, high-quality products through detailed test case development, bug tracking, regression testing, and API validation.
 
-With a background in teaching, I bring a unique set of skills to my role as a QA tester. I excel in problem-solving, attention to detail, and effective communication — qualities that are invaluable in the realm of software testing.
+Over the years, I have worked closely with developers, designers, and product teams to identify issues early in the development lifecycle, reduce production bugs, and improve overall user experience. I have led QA efforts for multiple major releases, executed thousands of test cases, and contributed to improved delivery timelines and software performance. My experience includes API testing using Postman and JMeter, web automation with Selenium and Playwright, and effective test management using tools like Jira and Trello.
 
-My experience in computer science has equipped me with a solid understanding of coding and software development processes, allowing me to collaborate effectively with developers and deliver user-centric solutions.
-
-I approach each testing challenge with enthusiasm and a thirst for knowledge, embracing new technologies and methodologies with an open mind. My diverse background and dedication to excellence make me a valuable asset to any team.
+In addition to my QA background, I have experience as a freelance QA tester and WordPress developer, where I delivered and maintained client projects end-to-end, ensuring cross-browser compatibility, responsiveness, and performance optimization. I am detail-oriented, highly collaborative, and passionate about continuous learning and improving testing processes. I thrive in remote environments and take pride in being dependable, proactive, and quality-focused in every project I work on.
 
 
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1meQzlV95KUp2iqztu6kvPnWAc1Zray96/view?usp=sharing).
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1gqWToaPMzLiig8FicvgfeOpfY_0D--fB/view?usp=sharing).
 
 ## Skills
 
