@@ -27,79 +27,85 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
 
 __Manual testing__
-  * can perform manual functional and usability testing of web applications
-  * gained hands-on experience by testing applications created for educational purposes
+  * perform manual functional, usability, regression, and cross-browser testing for web and mobile applications
+  * executed thousands of test cases across multiple projects and releases, identifying defects early in the SDLC to reduce production issues
 
- __Automation testing__
-  * can perform Web Automation testing using Selenium to ensure the functionality and reliability of web Application
-  * Can perform Regression testing by re-executing previous test cases by web automation 
-
+__Automation testing__
+  * perform web automation testing using Selenium and Playwright to ensure application functionality, reliability, and stability
+  * perform regression testing by re-executing automated test suites to validate new features and prevent existing functionality from breaking
 
 __Exploratory testing__
-  * capable of using Whittaker’s test tours and creating cheat-lists for testing web applications
+  * apply exploratory testing techniques using Whittaker’s test tours and structured cheat-lists to uncover edge cases and usability issues
 
 __Test documentation__
-  * can create test cases and checklists and know how and in which situations to use them effectively
-  * can create test plan 
-  * able to prepare comprehensive bug reports and provide detailed session reports
+  * create and maintain test cases, checklists, and test plans, with a clear understanding of when and how to use each
+  * prepare comprehensive bug reports, test session summaries, and QA reports to support effective team collaboration
+  * manage test documentation and execution using structured test management tools
+
+__API & backend testing__
+  * perform API testing using Postman and JMeter to validate endpoints, request/response payloads, data accuracy, and system reliability
+  * support backend validation through data verification and performance checks
 
 __SQL databases__
-  * can write complex requests using subqueries
-  * familiar with the use of aliases and wildcards
-  * know the difference between joins and unions and can use them in queries
+  * write complex SQL queries using subqueries, joins, unions, aliases, and wildcards
+  * validate backend data to support application and API testing
 
 __Python fundamentals__
-  * can write simple functions and algorithms
-  * know when to use for and while
-  * able to comprehend easy codes
+  * write reusable functions and simple algorithms for test automation
+  * understand and apply control flow structures such as for and while loops
+  * read, understand, and maintain existing automation codebases
 
-__Html and Css__
-  * Understanding of HTML structure including elements like <html>, <head>, <title>, <body>, etc.
-  * Knowledge of HTML tags such as headings , paragraphs , lists , links, 
-    images <img>, forms  etc.
-  * Understanding of CSS syntax and how CSS rules are structured with selectors, properties, and values.
-    
+__HTML and CSS__
+  * understand HTML structure including elements such as <html>, <head>, <title>, <body>, forms, and inputs
+  * validate UI components using knowledge of HTML tags such as headings, paragraphs, lists, links, images (<img>), and forms
+  * understand CSS syntax, selectors, properties, and values to support UI and layout validation
+
 
 ## Tools
 
+__Playwright__
+  * create fast, reliable end-to-end and regression test scripts for modern web applications
+  * execute tests across multiple browsers to ensure consistent user experience
+
 __Selenium__
-  * Created automated test scripts using Selenium WebDriver API in Python programming language
-  *  Design test cases for web application functionalities and implement them as automated scripts using Selenium.
-  * Execute automated test scripts using Selenium WebDriver against different browsers e.g., Chrome, Firefox, Safari
-  * Integrate Selenium with unittest automation framework
-  * Identify various locators using web elenent supported by Selenium and interact with it using Python script
-  * Implemented the Page Object Model design pattern to maintain a structured and maintainable test automation framework.
-    
+  * create automated test scripts using Selenium WebDriver with Python
+  * design and implement test cases for web application functionalities as automated scripts
+  * execute automated tests across browsers such as Chrome, Firefox, and Safari
+  * integrate Selenium with unittest frameworks
+  * identify and use various web element locators for effective interaction
+  * implement the Page Object Model (POM) design pattern to maintain a structured and scalable automation framework
+
+__TestLodge__
+  * manage test cases, test plans, and execution cycles in a structured test management environment
+  * track testing progress and maintain clear documentation across projects
 
 __Jira__
-  * know how to create bug reports
-  * able to create projects and track their progress
+  * create, track, and manage bug reports throughout the testing lifecycle
+  * collaborate with development teams and monitor project progress
 
 __Trello__
-  * Create Trello cards for individual test cases or test scenarios.
-  * Create Trello cards for tracking defects or issues identified during testing.
-  * Used Trello cards or checklists to track the execution of individual test cases.
-  * Collaborate with other team members
-    
+  * create cards for test cases, test scenarios, and defect tracking
+  * track test execution using checklists and boards
+  * collaborate effectively with team members in agile environments
 
 
 ## Courses
-__Software Testing__
-*By Efezino  
-an intensive course in manual Testing 
-completed course 2023
+
+__Software Testing__  
+*By Efezino*  
+An intensive course in manual software testing.  
+*Completed in 2021*
 
 __Practical Manual Testing | Bug Reporting and Task Management with JIRA | Database Testing | Selenium with Python__  
-*online courses by Testing world infotech,Testingworld Udemy*  
-An intensive course in manual and automation testing.  
-[Link to the certificate ](https://www.udemy.com/certificate/UC-92b91d1b-8d14-4a91-870a-0ec79198c661/)  
-*completed*
+*Online courses by Testing World Infotech (Udemy)*  
+An intensive course covering manual testing, automation testing, API testing, and database testing.  
+[Link to the certificate](https://www.udemy.com/certificate/UC-92b91d1b-8d14-4a91-870a-0ec79198c661/)  
+*Completed*
 
-__Selenium Webdriver:Selenium Automation Testing with Python__  
-*online course by Phil Ebiner,Dmitry Shyshkin,Video school*  
-A comprehensive course in Selenium Web Automation Testing,Pytest Framework and Page Object Model.   
-[Link to the certificate](https://www.udemy.com/certificate/UC-844493f0-903f-40d7-9b78-6e178dd601be/)
-
+__Selenium WebDriver: Selenium Automation Testing with Python__  
+*Online course by Phil Ebiner, Dmitry Shyshkin (Video School)*  
+A comprehensive course covering Selenium web automation testing, Pytest framework, and the Page Object Model (POM).  
+[Link to the certificate](https://www.udemy.com/certificate/UC-844493f0-903f-40d7-9b78-6e178dd601be/)  
 
 ## Examples of my work
 ### Test Plan
